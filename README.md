@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ridhik-ks?tab=repositories](https://github.com/ridhik-ks?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repo](https://github.com/ridhik-ks?tab=repositories)
 
 - 💬 Ask me about **React**
 
