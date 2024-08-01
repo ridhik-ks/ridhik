@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ridhik_ks" target="blank"><img src="https://img.shields.io/twitter/follow/ridhik_ks?logo=twitter&style=for-the-badge" alt="ridhik_ks" /></a> </p>
 
-- 🔭 I’m currently working on **EaseDuty**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [My Repo](https://github.com/ridhik-ks?tab=repositories)
 
